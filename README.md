@@ -6,8 +6,8 @@
 
 ### More detail about me
 
-* [My Resume](https://github.com/olivierodo/Awesome-CV/releases/download/latest/olivier-rodomond.pdf)
-* [🤓 The repository of my Resume](https://github.com/olivierodo/Awesome-CV)
+* [🤓 My Resume](https://github.com/olivierodo/Awesome-CV/releases/download/latest/olivier-rodomond.pdf)
+* [📦 The repository of my Resume](https://github.com/olivierodo/Awesome-CV)
 * [🎉 How i keep my resume up to date through Continous Integration](https://github.com/olivierodo/Awesome-CV-action)
 * [🚀 Setting up my Mac in one command](https://github.com/olivierodo/olivierodo.github.io/blob/master/mac): `curl https://olivierodo.me/mac | bash -`
 * [⚡ Customize my system through dotfile](https://github.com/olivierodo/dotfiles)
