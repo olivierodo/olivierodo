@@ -16,7 +16,6 @@
 
 Take the time to look at [RestQA](https://restqa.io). The open testing platform for api
 
-> If you have a problem, the is an API for that.
 
 <!--
 **olivierodo/olivierodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
