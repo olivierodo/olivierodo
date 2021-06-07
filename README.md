@@ -2,7 +2,12 @@
 
 > Joined the VIM chuch in 2012.
 
-![vim meme](https://pbs.twimg.com/media/Dm5R7dXXoAE5M5I?format=jpg&name=small)
+
+### Interested into pair programming with me
+
+[![badge-pair](https://olivierodo.me/images/pair.png)](https://github.com/olivierodo/pair-with-me)
+
+
 
 ### More detail about me
 
