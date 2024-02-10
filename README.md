@@ -15,7 +15,7 @@
 On adore prendre position sur des sujet qu'on maitrise... ou pas!
 Mais au moins on a l'audace de commencer a vous faire réfléchir. 🧠
 
-<img src="https://yt3.googleusercontent.com/KDFvsM-1NDh-c46AKSozVk27XjTtWa-gQjl2eFIBK9cO8BFF30c8lgInushdi-Uw0VJMqJxN=s176-c-k-c0x00ffffff-no-rj" height="150" />
+[<img src="https://yt3.googleusercontent.com/KDFvsM-1NDh-c46AKSozVk27XjTtWa-gQjl2eFIBK9cO8BFF30c8lgInushdi-Uw0VJMqJxN=s176-c-k-c0x00ffffff-no-rj" height="150" />](https://youtu.be/ZzLQ2gzkQpw)
 
 ### More detail about me
 
